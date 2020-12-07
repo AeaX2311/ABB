@@ -1,2 +1,2 @@
 # ABB
-Arbol binario de busqueda con representacion visual en lenguaje DOT.
+Arbol binario de busqueda con representacion visual, implementando lenguaje DOT.
